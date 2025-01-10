@@ -40,7 +40,12 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 5. **Chromosome-Specific Interval Tree**
+## 5. **Bioinformatics Practice Notebook**
+- **Description:** A Jupyter Notebook for exploring various bioinformatics problems from Rosalind.
+
+---
+
+## 6. **Chromosome-Specific Interval Tree**
 - **Description:** Builds an interval tree for chromosome-specific analyses and finds overlapping intervals.
 - **Key Features:**
   - Efficient overlap calculation.
@@ -48,7 +53,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 6. **Coalescent Time Simulation**
+## 7. **Coalescent Time Simulation**
 - **Description:** Simulates the time to coalescent events in populations.
 - **Key Features:**
   - Models population dynamics for a Wright-Fisher population.
@@ -56,7 +61,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 7. **Differential Gene Expression Analysis**
+## 8. **Differential Gene Expression Analysis**
 - **Description:** Analyzes differential gene expression using log fold changes and statistical tests.
 - **Key Features:**
   - Computes normalized expression and fold changes.
@@ -64,14 +69,14 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 8. **Fibonacci Calculator**
+## 9. **Fibonacci Calculator**
 - **Description:** Computes Fibonacci numbers using a closed-form solution.
 - **Key Features:**
   - Implements matrix-based representation for efficient calculation.
 
 ---
 
-## 9. **Hierarchical Clustering (MNIST)**
+## 10. **Hierarchical Clustering (MNIST)**
 - **Description:** Applies hierarchical clustering on MNIST digits and visualizes the dendrogram.
 - **Key Features:**
   - Clusters digits based on visual similarity.
@@ -80,7 +85,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 10. **Hierarchical Clustering (Dogs)**
+## 11. **Hierarchical Clustering (Dogs)**
 - **Description:** Clusters dog breeds based on genetic similarities.
 - **Key Features:**
   - Creates a dendrogram for hierarchical clustering.
@@ -89,7 +94,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 11. **Interval Overlap Analysis**
+## 12. **Interval Overlap Analysis**
 - **Description:** Analyzes overlaps between genomic intervals using permutation testing.
 - **Key Features:**
   - Randomizes interval positions.
@@ -97,7 +102,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 12. **K-Means Clustering (MNIST)**
+## 13. **K-Means Clustering (MNIST)**
 - **Description:** Applies K-Means clustering to MNIST digit data.
 - **Key Features:**
   - Visualizes centroids as digit-like images.
@@ -105,7 +110,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 13. **Non-Negative Matrix Factorization (NMF)**
+## 14. **Non-Negative Matrix Factorization (NMF)**
 - **Description:** Decomposes SNP data to reveal shared patterns among dogs.
 - **Key Features:**
   - Identifies dominant clusters for each dog.
@@ -113,7 +118,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 14. **Protein Interaction Clustering**
+## 15. **Protein Interaction Clustering**
 - **Description:** Clusters proteins based on interaction scores using hierarchical clustering.
 - **Key Features:**
   - Generates a heatmap with dendrograms for clustering visualization.
@@ -121,16 +126,11 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-## 15. **Viterbi Algorithm**
+## 16. **Viterbi Algorithm**
 - **Description:** Applies the Viterbi algorithm to predict hidden states in genetic sequences.
 - **Key Features:**
   - Parses VCF files for genotypes and frequencies.
   - Predicts inbred and outbred regions across chromosomes.
-
----
-
-## 16. **Bioinformatics Practice Notebook**
-- **Description:** A comprehensive Jupyter Notebook for exploring various bioinformatics problems from Rosalind.
 
 ---
 
