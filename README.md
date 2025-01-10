@@ -11,7 +11,6 @@ This repository contains a collection of computational biology and machine learn
   - Uses CPK coloring for atoms.
   - Generates bonds based on distances between atoms.
   - Saves a 3D molecular visualization as an image.
-- **Output:** `molecule_3D_plot.png`.
 
 ---
 
@@ -21,7 +20,6 @@ This repository contains a collection of computational biology and machine learn
   - Visualizes MNIST digits in 2D.
   - Reconstructs MNIST images using reduced dimensions.
   - Applies MDS on molecular distances.
-- **Output:** `MNIST_PCA_2D.png`, `Dogs_PCA_2D.png`, `molecule_coordinates.csv`.
 
 ---
 
@@ -31,7 +29,6 @@ This repository contains a collection of computational biology and machine learn
   - Recursive feature elimination for feature selection.
   - Cross-validation with hyperparameter grid search.
   - Predicts probabilities for test samples.
-- **Output:** `submission.csv`.
 
 ---
 
@@ -40,7 +37,6 @@ This repository contains a collection of computational biology and machine learn
 - **Key Features:**
   - Applies forward algorithms for likelihood computation.
   - Optimizes probabilities for inbred and outbred states.
-- **Output:** Optimized probabilities for transitions.
 
 ---
 
@@ -114,7 +110,6 @@ This repository contains a collection of computational biology and machine learn
 - **Key Features:**
   - Identifies dominant clusters for each dog.
   - Visualizes cluster proportions as a stacked plot.
-- **Output:** `NMF_Dogs.png`.
 
 ---
 
@@ -123,7 +118,6 @@ This repository contains a collection of computational biology and machine learn
 - **Key Features:**
   - Generates a heatmap with dendrograms for clustering visualization.
   - Identifies clusters among the top interacting proteins.
-- **Output:** `Protein_Cluster_Heatmap.png`.
 
 ---
 
