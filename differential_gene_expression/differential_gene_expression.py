@@ -106,7 +106,7 @@ def main(control_dir, treatment_dir):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python your_assignment.py path/to/controls path/to/treatments")  
+        print("Usage: python differential_gene_expression.py path/to/controls path/to/treatments")  
         sys.exit(1) 
         
     control_directory = sys.argv[1] 
