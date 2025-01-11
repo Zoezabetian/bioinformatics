@@ -128,7 +128,7 @@ def main(vcf_file):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python submission.py input.vcf")
+        print("Usage: python viterbi_algorithm.py input.vcf")
         sys.exit(1)
 
     vcf_file = sys.argv[1]
