@@ -98,7 +98,7 @@ def amoeba_optimization(vcf_data, initial_params, tolerance=1e-6, max_iterations
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python FirstName_LastName_Tier2.py input.vcf")
+        print("Usage: python amoebaoptimization.py <input>.vcf")
         sys.exit(1)
 
     vcf_file = sys.argv[1]
