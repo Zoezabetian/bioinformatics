@@ -18,4 +18,4 @@ This tool is designed for genomic interval overlap analysis using interval trees
 
 ### Command-Line Interface
 ```bash
-python interval_overlap_analysis.py path/to/SetA.bed path/to/SetB.bed path/to/genome.fa.fai [num_permutations]
+python interval_overlap_analysis.py SetA.bed SetB.bed genome.fa.fai [num_permutations]
