@@ -1,4 +1,3 @@
-# Zoe Zabetian Assignment 4 Tier 2
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
