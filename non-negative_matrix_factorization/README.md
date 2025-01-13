@@ -36,6 +36,10 @@ This script analyzes SNP data from dogs to identify genetic patterns using Non-N
    - Stacked bar plot saved as `NMF_Dogs.png`:
      - X-axis: Individual dogs, sorted by dominant cluster.
      - Y-axis: Proportion of components.
+   - Stacked bar plot saved as `NMF_Dogs_by_Clade.png`: 
+     - X-axis: Dog clades.
+     - Y-axis: Proportion of components.
+     - NOTE: The code in the NMF .py file does not produce this graph anymore, but I've included it anyways. 
 2. **Console Output** (Optional):
    - Dominant components for Basenji and Wolf samples.
 
