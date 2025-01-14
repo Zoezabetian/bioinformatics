@@ -71,7 +71,7 @@ This repository contains a collection of computational biology and machine learn
 
 ---
 
-### 9. **DNA Data Encoding and Decoding**
+### 9. **DNA as Data Storage: Encoding and Decoding**
 - **Description:** Encodes binary files into tagged DNA sequences and decodes them back to their original format.
 - **Key Features:**
   - Inserts location-specific tags to improve data segmentation.
