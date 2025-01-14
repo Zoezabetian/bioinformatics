@@ -1,4 +1,4 @@
-## DNA as Storage: Data Encoding and Decoding System
+## DNA as Data Storage: Encoding and Decoding System
 
 ### Overview
 This fictional project explores using DNA as long-term data storage. The program provides a system to encode binary data into DNA sequences with embedded tags for segmentation and error detection. It also decodes the tagged DNA sequence back into the original binary file. The implementation is designed for robust data integrity and efficient sequence parsing. This project was made with three other team members. 
